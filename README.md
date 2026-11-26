@@ -18,7 +18,12 @@ python analysis.py
 ```
 
 ## Charts
-The script creates charts for population, unemployment, employment by sex, immigration background and employment by industry.
+
+![Population in Stavanger](population_stavanger.png)
+![Unemployment in Rogaland](unemployment_rogaland.png)
+![Employment by sex](employment_by_sex.png)
+![Immigration in Stavanger](immigration_stavanger.png)
+![Employment by industry](employment_by_industry.png)
 
 ## What this project shows
 - Data cleaning
