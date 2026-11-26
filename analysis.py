@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-DATA = "data"
-IMAGES = "images"
+DATA = "."
+IMAGES = "."
 
 def load_csv(filename):
     path = os.path.join(DATA, filename)
